@@ -36,9 +36,9 @@ Zero dependencies. Single file. Just open and play.
 No build step needed — just open the file:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dino-jump
+git clone https://github.com/DihanSae29/dino-jump
 cd dino-jump
-open dino-jump.html
+open dino_goreng.html
 ```
 
 Or serve it:
